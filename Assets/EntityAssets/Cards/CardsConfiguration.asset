@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7bd32c863c24c6b9eed92d73f8295a3, type: 3}
+  m_Name: CardsConfiguration
+  m_EditorClassIdentifier: 
+  _cards:
+  - _view: {fileID: 571908855, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 0
+    _cardSuit: 1
+  - _view: {fileID: -1789220135, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 1
+    _cardSuit: 1
+  - _view: {fileID: 284978693, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 2
+    _cardSuit: 1
+  - _view: {fileID: -1094197721, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 3
+    _cardSuit: 1
+  - _view: {fileID: -768348049, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 4
+    _cardSuit: 1
+  - _view: {fileID: 1935683425, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 5
+    _cardSuit: 1
+  - _view: {fileID: 713441712, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 6
+    _cardSuit: 1
+  - _view: {fileID: 1309289352, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 7
+    _cardSuit: 1
+  - _view: {fileID: 953190404, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 8
+    _cardSuit: 1
+  - _view: {fileID: 568565071, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 9
+    _cardSuit: 1
+  - _view: {fileID: 41256979, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 10
+    _cardSuit: 1
+  - _view: {fileID: -2063366221, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 11
+    _cardSuit: 1
+  - _view: {fileID: 2124146206, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 12
+    _cardSuit: 1
+  - _view: {fileID: -1664707549, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 0
+    _cardSuit: 3
+  - _view: {fileID: -1364009028, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 1
+    _cardSuit: 3
+  - _view: {fileID: -908549518, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 2
+    _cardSuit: 3
+  - _view: {fileID: -46608964, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 3
+    _cardSuit: 3
+  - _view: {fileID: 318857965, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 4
+    _cardSuit: 3
+  - _view: {fileID: -1459985179, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 5
+    _cardSuit: 3
+  - _view: {fileID: -2080523860, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 6
+    _cardSuit: 3
+  - _view: {fileID: -645753878, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 7
+    _cardSuit: 3
+  - _view: {fileID: 174480161, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 8
+    _cardSuit: 3
+  - _view: {fileID: 617815590, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 9
+    _cardSuit: 3
+  - _view: {fileID: 213464324, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 10
+    _cardSuit: 3
+  - _view: {fileID: -897257355, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 11
+    _cardSuit: 3
+  - _view: {fileID: 1896302948, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 12
+    _cardSuit: 3
+  - _view: {fileID: -1223455064, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 0
+    _cardSuit: 0
+  - _view: {fileID: 870091443, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 1
+    _cardSuit: 0
+  - _view: {fileID: 286319314, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 2
+    _cardSuit: 0
+  - _view: {fileID: 446419551, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 3
+    _cardSuit: 0
+  - _view: {fileID: 1333935986, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 4
+    _cardSuit: 0
+  - _view: {fileID: -1556123611, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 5
+    _cardSuit: 0
+  - _view: {fileID: -400143076, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 6
+    _cardSuit: 0
+  - _view: {fileID: 308325374, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 7
+    _cardSuit: 0
+  - _view: {fileID: -1248946308, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 8
+    _cardSuit: 0
+  - _view: {fileID: 331491036, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 9
+    _cardSuit: 0
+  - _view: {fileID: 1782504202, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 10
+    _cardSuit: 0
+  - _view: {fileID: -142370371, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 11
+    _cardSuit: 0
+  - _view: {fileID: 50361761, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 12
+    _cardSuit: 0
+  - _view: {fileID: 1149064455, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 0
+    _cardSuit: 2
+  - _view: {fileID: 1236657557, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 1
+    _cardSuit: 2
+  - _view: {fileID: 2011112381, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 2
+    _cardSuit: 2
+  - _view: {fileID: 1799250125, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 3
+    _cardSuit: 2
+  - _view: {fileID: -509350529, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 4
+    _cardSuit: 2
+  - _view: {fileID: 1617248595, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 5
+    _cardSuit: 2
+  - _view: {fileID: -1725967466, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 6
+    _cardSuit: 2
+  - _view: {fileID: 1043608338, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 7
+    _cardSuit: 2
+  - _view: {fileID: 1705043769, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 8
+    _cardSuit: 2
+  - _view: {fileID: -1610062363, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 9
+    _cardSuit: 2
+  - _view: {fileID: -1706597493, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 10
+    _cardSuit: 2
+  - _view: {fileID: 2025415650, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 11
+    _cardSuit: 2
+  - _view: {fileID: 237127698, guid: 44af49fbbd5380940a562377c9ba670c, type: 3}
+    _rank: 12
+    _cardSuit: 2
